@@ -16,10 +16,10 @@ Here are some ideas to get you started:
 -->
 ## Hello 👋 I'm Mohamed Abdelwahab
 
-🎓 Master's student in Mechatronics Engineering @ TUHH, Hamburg, Germany🇩🇪
-💻 Interested in Software Development, Robotics and Autonomous Systems.
-🧪 Highly motivated to learn and explore new technologies and contribute to real-world projects.
-📄 Know more about me through my CV
+-🎓 Master's student in Mechatronics Engineering @ TUHH, Hamburg, Germany🇩🇪
+-💻 Interested in Software Development, Robotics and Autonomous Systems.
+-🧪 Highly motivated to learn and explore new technologies and contribute to real-world projects.
+-📄 Know more about me through my CV
 
 ---
 
