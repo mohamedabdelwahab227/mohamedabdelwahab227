@@ -13,10 +13,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## Hello 👋 I'm Mohamed Abdelwahab
+<img width="1024" height="1024" alt="Robotics" src="https://github.com/user-attachments/assets/3283ae0b-1e58-436d-bcee-bbf41911a9ee" />
 
--🎓 Master's student in Mechatronics Engineering @ TUHH, Hamburg, Germany🇩🇪
--💻 Interested in Software Development, Robotics and Autonomous Systems.
+<h1 align="center">Hello 👋 I'm Mohamed Abdelwahab</h1>
+<h4 align="center">🎓 Mechatronics Master’s student @ TUHH, Hamburg, Germany🇩🇪</h3>
+
+-💻 Passionate about Software Development, Robotics and Autonomous Systems.
 -🧪 Highly motivated to learn and explore new technologies and contribute to real-world projects.
 -📄 Know more about me through my CV
 
