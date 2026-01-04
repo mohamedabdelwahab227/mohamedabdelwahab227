@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img width="1024" height="1024" alt="Robotics" src="https://github.com/user-attachments/assets/3283ae0b-1e58-436d-bcee-bbf41911a9ee" />
+<img align="right" width="1024" height="512" alt="Robotics" src="https://github.com/user-attachments/assets/3283ae0b-1e58-436d-bcee-bbf41911a9ee" />
 
 <h1 align="center">Hello 👋 I'm Mohamed Abdelwahab</h1>
 <h4 align="center">🎓 Mechatronics Master’s student @ TUHH, Hamburg, Germany🇩🇪</h3>
