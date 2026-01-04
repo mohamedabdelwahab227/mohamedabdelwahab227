@@ -14,3 +14,30 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## Hello 👋 I'm Mohamed Abdelwahab
+
+🎓 Master's student in Mechatronics Engineering @ TUHH, Hamburg, Germany🇩🇪
+💻 Interested in Software Development, Robotics and Autonomous Systems.
+🧪 Highly motivated to learn and explore new technologies and contribute to real-world projects.
+📄 Know more about me through my CV
+
+---
+
+### 🛠 Tools & Technologies
+- Programming: Java, Python, C++
+- Robotics: ROS, Sensors, Simulation
+- Testing: Manual Testing, Test Cases, Debugging
+- Version Control: Git & GitHub
+- OS: Linux
+
+---
+
+### 🌍 Languages
+- Arabic: Native  
+- English: C1  
+- German: A1 (starting A2 soon)
+
+---
+
+📫 **GitHub:** You are here 😊  
+📫 **LinkedIn:** [[Add your link here](https://www.linkedin.com/in/moabdelwahab24/)]
